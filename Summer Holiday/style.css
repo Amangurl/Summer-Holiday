@@ -1,0 +1,45 @@
+*
+{
+    margin: 0%;
+}
+
+h1 {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 2rem;
+    background-color: teal;
+    color: white;
+    padding: 15px;
+}
+img
+{
+    height: 350px;
+    width: 450px;
+    
+}
+.container-1
+{
+    display: flex;
+   
+}
+.flexbox
+{
+    width: 450px;
+    height: 400px;
+    margin: 25px;
+    border: 2px solid gainsboro;
+    align-items: center;
+    box-shadow: 10px 10px rgb(234, 232, 232);
+   
+}
+.container-2
+{
+    display: flex;
+}
+h3
+{
+    font-family:  'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-size: 1.2rem;
+    padding: 10px;
+   
+}
